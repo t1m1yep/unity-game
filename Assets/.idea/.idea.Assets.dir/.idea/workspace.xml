@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:unity" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b33fb7c4-aed6-4936-a5c1-1b03d7fc656c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prefabs/keyYellow.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prefabs/keyYellow.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prefabs/mushroomRed.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prefabs/mushroomRed.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableObject/Items/Key.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptableObject/Items/Key.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/InventoryRender.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/InventoryRender.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/InventorySystem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/InventorySystem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/Item.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/Item.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/ItemSystem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/ItemSystem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/ItemTaker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/ItemTaker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/Items.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/TakeableObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/TakeableObject.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/UI/UIController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/Content/UI/UIController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptableObject/Items/Mushroom.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptableObject/Items/Mushroom.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Content/ManageScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Content/ManageScene.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Entities/Enemy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Entities/Enemy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Entities/Mouse/MouseSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Entities/Mouse/MouseSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Entities/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Entities/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Mouse.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/PlayerCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/PlayerCamera.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/1900b0aE-inputdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/1900b0aE-inputdata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/1900b0aE.dag" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/1900b0aE.dag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/1900b0aE.dag.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/1900b0aE.dag.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/1900b0aE.dag_derived" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/1900b0aE.dag_derived" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/TundraBuildState.state" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/TundraBuildState.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/TundraBuildState.state.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/TundraBuildState.state.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/artifacts/1900b0aE.dag/post-processed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/artifacts/1900b0aE.dag/post-processed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/artifacts/1900b0aE.dag/post-processed/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/artifacts/1900b0aE.dag/post-processed/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/backend_profiler0.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/backend_profiler0.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/backend_profiler1.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/backend_profiler1.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/buildprogram0.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/buildprogram0.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/fullprofile.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/fullprofile.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/tundra.digestcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Bee/tundra.log.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/Bee/tundra.log.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/BurstCache/JIT/CacheManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/BurstCache/JIT/CacheManifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/PsdPlugin.bhc" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/PsdPlugin.bhc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.2D.Animation.Editor.bhc" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.2D.Animation.Editor.bhc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.2D.Animation.Runtime.bhc" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.2D.Animation.Runtime.bhc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.2D.Common.Editor.bhc" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.2D.Common.Editor.bhc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.2D.Common.Runtime.bhc" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.2D.Common.Runtime.bhc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.2D.Psdimporter.Editor.bhc" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.2D.Psdimporter.Editor.bhc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.2D.SpriteShape.Runtime.bhc" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.2D.SpriteShape.Runtime.bhc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.Burst.bhc" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.Burst.bhc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.Mathematics.bhc" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/BurstCache/JIT/Hashes/Unity.Mathematics.bhc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/EditorInstance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Scripts" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Scripts/Content/ItemTaker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/PlayerCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Content/InventorySystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Entities/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Content/TakeableObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Content/InventoryRender.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Content/Physics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Content/Item.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Entities/Mouse/MouseSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Content/UI/UIController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Entities/Enemies/Saw.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Entities/Enemies/EnemySystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Content/ManageScene.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Scripts/Content/Physics.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Content/SceneManager.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Content/ManageScene.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Entities/Enemies/EnemySystem.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Entities/Enemies/Saw.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Entities/Mouse/Mouse.cs" />
+        <option value="$PROJECT_DIR$/Scripts/PlayerCamera.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Entities/Player.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Entities/Mouse/MouseSystem.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Content/Itemtaker.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Content/InventorySystem.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Content/Item.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Content/ItemTaker.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Content/TakeableObject.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Content/InventoryRender.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Content/UI/UIController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UTmybHpx0bF4t88wQqKsxWxKCr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b33fb7c4-aed6-4936-a5c1-1b03d7fc656c" name="Default Changelist" comment="" />
+      <created>1692972211374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692972211374</updated>
+      <workItem from="1692972213756" duration="3658000" />
+      <workItem from="1693221501869" duration="6580000" />
+      <workItem from="1694444383932" duration="62000" />
+      <workItem from="1694444479098" duration="3864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1694444422865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1694444422865" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1694444573050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1694444573050" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1694445314276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1694445314276" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1694445406858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1694445406858" />
+  </component>
+</project>

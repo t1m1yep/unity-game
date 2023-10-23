@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cada470-a998-48b7-8277-757b76bd42fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Inventory.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory/InventorySystem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory/InventorySystem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Items.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Items/Item.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Items/Item.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Items/ItemSystem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Items/ItemSystem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Items/ItemTaker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Items/ItemTaker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Items/TakeableObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Items/TakeableObject.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolshed.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI/Inventory.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI/Inventory/InventoryMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI/Inventory/InventoryMenu.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI/Inventory/InventoryRender.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI/Inventory/InventoryRender.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI/UIController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI/UIController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManageScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Toolshed/ManageScene.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManageScene.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Toolshed/ManageScene.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Physics.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Toolshed/Physics.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Physics.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Toolshed/Physics.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Entities/Enemy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Entities/Enemy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Entities/Mouse/MouseSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Entities/Mouse/MouseSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Entities/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Entities/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mouse.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayerCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Toolshed/PlayerCamera.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayerCamera.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Toolshed/PlayerCamera.cs.meta" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2VUAIGkrUJTTTTDNpWshnXBGuPv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cada470-a998-48b7-8277-757b76bd42fa" name="Default Changelist" comment="" />
+      <created>1694880203740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694880203740</updated>
+      <workItem from="1694880204995" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
